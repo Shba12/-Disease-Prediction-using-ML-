@@ -8,10 +8,9 @@
 
 **القائمين على المشروع:**
 
-أسيل الجاسر 
-[y5ou]([url](https://github.com/y5ou)) 
-شيخة الشريم 
-[Shba12]([url](https://github.com/Shba12))
+أسيل الجاسر [https://github.com/y5ou](url)
+شيخة الشريم [https://github.com/Shba12](url)
+
 
 
 
